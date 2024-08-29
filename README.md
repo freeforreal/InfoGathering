@@ -73,3 +73,35 @@ def main():
 if __name__ == '__main__':
     main()
 ```
+
+**4. Okay, after this, let's put social engineering into practice to get the target person's PayPal**
+
+-  **You can send a message like this:**
+
+```text
+Hi, I would like to buy some items from your shop, I have been looking for them for a long time and I have found them, please tell me the price!
+```
+
+> **This is an example message, you can use any message you want**
+
+- **Paypal example:**
+
+```text
+paypal.me/username
+```
+
+- **This is the structure if paypal.me, the most common, but the user can provide you the email**
+
+- **Example PayPal email:**
+
+```text
+example@gmail.com
+```
+
+**5. When you have PayPal.me, we will use my server tech, which you can access [here](https://discord.gg/freeforreal)**
+
+- You need to get the tech from the shop called ‘t2ch-paypal’
+
+![imagen](https://github.com/user-attachments/assets/1ec41666-d86e-479e-bb66-7dbdde011486)
+
+**6. Use the tech to get the person's email and phone number. The number may not be revealed, there is a bug for that, but get as much information as you can from that PayPal**

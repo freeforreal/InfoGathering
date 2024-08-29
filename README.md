@@ -222,4 +222,4 @@ var wbhk = 'YOUR DISCORD WEBHOOK'
 Server Config > Integrations > New Webhook > Copy Webhook URL
 ```
 
-# Thanks for watch this tutorial and leave a star for Free for REAL please!
+### Thanks for watch this tutorial and leave a star for Free for REAL please!

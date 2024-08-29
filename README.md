@@ -108,7 +108,7 @@ example@gmail.com
 
 **6. After that, you can use our bots for server lookups, as well as other platforms such as intelX. I also recommend you to use the snusbase tool you will find on my server to check if the email is leaked**
 
-> **Para el número de teléfono, te recomiendo esta [herramienta](https://github.com/Euronymou5/Dark-Hydro)**
+> **For the phone number, I recommend this [tool](https://github.com/Euronymou5/Dark-Hydro)**
 > **For email, I re-recommend these sites, in addition to open source tools from GitHub that you can download and use, like [MailCat](https://github.com/sharsil/mailcat) or [Sherlock](https://github.com/sherlock-project/sherlock), for example:**
 
 - https://mailmeteor.com/email-checker

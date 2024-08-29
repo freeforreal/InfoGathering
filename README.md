@@ -26,7 +26,7 @@ https://discordlookup.mesalytic.moe/v1/user/ + the user ID of the person to sear
 
 ![imagen](https://github.com/user-attachments/assets/826ca3e5-79b4-4b53-a184-c2cbefacd3f5)
 
-> **Here is an example of a python request to the API to automate the process:**
+> **Here is an example of a Python request to the API to automate the process:**
 
 ```python
 import requests, os

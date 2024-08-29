@@ -105,3 +105,17 @@ example@gmail.com
 ![imagen](https://github.com/user-attachments/assets/1ec41666-d86e-479e-bb66-7dbdde011486)
 
 **6. Use the tech to get the person's email and phone number. The number may not be revealed, there is a bug for that, but get as much information as you can from that PayPal**
+
+**6. After that, you can use our bots for server lookups, as well as other platforms such as intelX. I also recommend you to use the snusbase tool you will find on my server to check if the email is leaked**
+
+> **Para el número de teléfono, te recomiendo esta [herramienta](https://github.com/Euronymou5/Dark-Hydro)**
+> **For email, I re-recommend these sites, in addition to open source tools from GitHub that you can download and use, like [MailCat](https://github.com/sharsil/mailcat) or [Sherlock](https://github.com/sherlock-project/sherlock), for example:**
+
+- https://mailmeteor.com/email-checker
+- https://www.aware-online.com/en/osint-tools/email-address-tools/
+- https://epieos.com/
+- https://hunter.io/email-verifier
+- https://tools.emailhippo.com/
+- https://email-checker.net/
+
+> **If you want to make more complete OSINT searches, I recommend [this](https://github.com/Euronymou5/DorkBuster) tool**

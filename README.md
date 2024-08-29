@@ -123,7 +123,9 @@ example@gmail.com
 ## Obtaining the public IP
 
 **1. If you want to get someone's public IP, the first option is [IpLogger](https://iplogger.org/en/) (in my opinion the worst)**
-**2. The second option is to use the open source tool [RedHawk](https://github.com/Tuhinshubhra/RED_HAWK). You can download it by following the instructions, and it allows you, among other options, to know the public IP of the user who has raised a website. In other words, if the target has a website, this tool is generally very useful**
+
+**2. The second option is to use the open source tool [RedHawk](https://github.com/Tuhinshubhra/RED_HAWK). You can download it by following the instructions, and it allows you, among other options, to know the public IP of the user who has raised a website. In other words, if the target has a website, this tool is generally very useful
+
 **3. The last option is to create your own website and host it (on [GitHub Pages](https://pages.github.com/) or another hosting of your choice) and put the code shown below:**
 
 > **HTML code (index.html)**
